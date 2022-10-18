@@ -14124,7 +14124,7 @@
       "roboxp": 0
     },
     "62895708744800@s.whatsapp.net": {
-      "exp": 63,
+      "exp": 34,
       "limit": 100,
       "lastclaim": 0,
       "registered": false,
@@ -14198,86 +14198,15 @@
       "robo": 0,
       "roboxp": 0
     },
-    "6283827252634@s.whatsapp.net": {
-      "exp": 2,
-      "limit": 100,
-      "lastclaim": 0,
-      "registered": false,
-      "name": "LolaaCuiii",
-      "pasangan": "",
-      "age": -1,
-      "regTime": -1,
-      "afk": -1,
-      "afkReason": "",
-      "banned": false,
-      "warn": 0,
-      "level": 0,
-      "role": "Beginner",
-      "autolevelup": true,
-      "money": 0,
-      "bank": 0,
-      "atm": 0,
-      "fullatm": 0,
-      "health": 100,
-      "potion": 10,
-      "trash": 0,
-      "wood": 0,
-      "rock": 0,
-      "string": 0,
-      "emerald": 0,
-      "diamond": 0,
-      "gold": 0,
-      "iron": 0,
-      "upgrader": 0,
-      "common": 0,
-      "uncommon": 0,
-      "mythic": 0,
-      "legendary": 0,
-      "superior": 0,
-      "pet": 0,
-      "horse": 0,
-      "horseexp": 0,
-      "cat": 0,
-      "catngexp": 0,
-      "fox": 0,
-      "foxexp": 0,
-      "dog": 0,
-      "dogexp": 0,
-      "horselastfeed": 0,
-      "catlastfeed": 0,
-      "foxlastfeed": 0,
-      "doglastfeed": 0,
-      "armor": 0,
-      "armordurability": 0,
-      "sword": 0,
-      "sworddurability": 0,
-      "pickaxe": 0,
-      "pickaxedurability": 0,
-      "fishingrod": 0,
-      "fishingroddurability": 0,
-      "lastadventure": 0,
-      "lastfishing": 0,
-      "lastdungeon": 0,
-      "lastduel": 0,
-      "lastmining": 0,
-      "lasthunt": 0,
-      "lastweekly": 0,
-      "lastmonthly": 0,
-      "lastbunga": 0,
-      "note": 0,
-      "premium": false,
-      "premiumTime": 0,
-      "limitjoin": 0
-    },
     "6282129801595@s.whatsapp.net": {
-      "exp": 115,
+      "exp": 308,
       "limit": 100,
       "lastclaim": 0,
       "registered": true,
       "name": "amat",
       "pasangan": "",
       "age": 16,
-      "regTime": 1666105286220,
+      "regTime": 1666109776307,
       "afk": -1,
       "afkReason": "",
       "banned": false,
@@ -15524,14 +15453,14 @@
     "main-menuawal.js": {
       "total": 142,
       "success": 90,
-      "last": 1666105312640,
-      "lastSuccess": 1666105312640
+      "last": 1666109808082,
+      "lastSuccess": 1666109808082
     },
     "exp-daftar.js": {
       "total": 90,
       "success": 65,
-      "last": 1666105290755,
-      "lastSuccess": 1666105290755
+      "last": 1666109785414,
+      "lastSuccess": 1666109785414
     },
     "_autoreact.js": {
       "total": 54,
@@ -15548,8 +15477,8 @@
     "main-menulist.js": {
       "total": 117,
       "success": 108,
-      "last": 1666105335680,
-      "lastSuccess": 1666105335680
+      "last": 1666109844654,
+      "lastSuccess": 1666109844654
     },
     "group-link.js": {
       "total": 5,
@@ -15648,10 +15577,10 @@
       "lastSuccess": 1663943458452
     },
     "creator.js": {
-      "total": 92,
-      "success": 85,
-      "last": 1664214252992,
-      "lastSuccess": 1664214252992
+      "total": 95,
+      "success": 88,
+      "last": 1666109976114,
+      "lastSuccess": 1666109976114
     },
     "jdiibot.js": {
       "total": 3,
@@ -15714,10 +15643,10 @@
       "lastSuccess": 1664122323559
     },
     "owner-order.js": {
-      "total": 4,
-      "success": 2,
-      "last": 1664123448027,
-      "lastSuccess": 1664123448027
+      "total": 5,
+      "success": 3,
+      "last": 1666109906974,
+      "lastSuccess": 1666109906974
     },
     "main-store.js": {
       "total": 53,
@@ -15726,10 +15655,10 @@
       "lastSuccess": 1664210696896
     },
     "info-paystore.js": {
-      "total": 2,
-      "success": 2,
-      "last": 1664184472780,
-      "lastSuccess": 1664184472780
+      "total": 4,
+      "success": 4,
+      "last": 1666109995038,
+      "lastSuccess": 1666109995038
     },
     "tool-tourl.js": {
       "total": 3,

@@ -2,8 +2,8 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 : Mazz Official 
+𝐖𝐚 : 082129801595
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
@@ -34,9 +34,9 @@
 ⭝ 𝒁𝒆𝒆𝒐𝒏𝒆 𝑶𝒇𝒄
 ⭝ 𝑹𝒂𝒎𝒍𝑎𝑛
 ⭝ 𝑮𝒆𝒎𝒑𝒚𝒓𝑻𝒐𝒏
-let nowner1 = `${nomorown1.split`@`[0]}@s.whatsapp.net`
-  let nowner2 = `${nomorown2.split`@`[0]}@s.whatsapp.net`
-  let teksnomor = `${htki} *OWNER* ${htka}
+let nowner1 = `${6282129801595.split`@`[0]}@s.whatsapp.net`
+  let nowner2 = `${62895708744800.split`@`[0]}@s.whatsapp.net`
+  let teksnomor = `${htki} *082129801595* ${htka}
 ✦ @${nomorown1.split`@`[0]} ✦
 */
 
@@ -95,7 +95,7 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Aʟᴅɪ X Aɪsʏᴀʜ'
+global.author = 'Mazz X Official'
 global.namebot = '​ 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
@@ -104,8 +104,8 @@ global.watermark = wm
 global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
+global.titlebot = `Mazz 𝐗 Official`
+global.stickpack = 'Mazz 𝐗 Official'
 global.stickauth = `© Yushino MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
